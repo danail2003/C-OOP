@@ -1,8 +1,8 @@
 ﻿namespace TheRace
 {
     using System;
-    using System.Collections.Generic;
     using System.Linq;
+    using System.Collections.Generic;
 
     public class RaceEntry
     {
